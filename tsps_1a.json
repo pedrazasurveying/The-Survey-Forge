@@ -1,0 +1,12 @@
+{
+  "title": "TSPS Category 1A Land Title Survey",
+  "default_scope": "Perform a TSPS Category 1A Land Title Survey per 2021 TSPS Manual of Practice.",
+  "default_tasks": [
+    "File title commitment",
+    "Research adjoiners",
+    "Schedule field crew",
+    "Draft plat",
+    "QA/QC review",
+    "Deliver to client"
+  ]
+}
